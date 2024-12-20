@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  email: MyString
+  income: 9.99
+  expenses: 9.99
+  credit_score: 1
+
+two:
+  name: MyString
+  email: MyString
+  income: 9.99
+  expenses: 9.99
+  credit_score: 1

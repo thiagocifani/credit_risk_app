@@ -1,0 +1,5 @@
+income,expenses,credit_score,loan_amount,total_revolving_debt,total_installment_balance,risk_level
+55000,5000,800,0,5000,10000,Low
+55000,10000,720,0,5000,10000,Low
+40000,20000,650,2000,2000,6000,Medium
+30000,80000,500,15000,3200,10000,High
